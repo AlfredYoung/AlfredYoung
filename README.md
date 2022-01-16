@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm AlfredYoung</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/Hi.gif" width="30px">, I'm AlfredYoung</h1>
  <p align="center"><br/>
 </p>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/202108300019556.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
@@ -43,9 +43,9 @@
 # 🚀 Action 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img width="150" src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredYoung&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img width="150" src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/202108300312623.png" />
 </p>
 
 <!-- GitHub奖杯🏆 -->
