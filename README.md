@@ -1,11 +1,8 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/Hi.gif" width="30px">, I'm AlfredYoung</h1>
+<h1 align="center">Hi , I'm AlfredYoung</h1>
  <p align="center"><br/>
 </p>
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/202108300019556.gif"/></div>
-<br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -39,16 +36,14 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 
 - 👋 Hi, I’m @AlfredYoung
-- 👀 I’m interested in Deep Learning and System Software
-- 🌱 I’m currently learning Artificial Intelligence and Compilers
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Network and System Software
+- 🌱 I’m currently learning Deep Learning and Network
+- 💞️ I’m doing research at USTC. 
 - 📫 How to reach me 1150714183@qq.com
 # 🚀 Action 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
-  <img width="150" src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredYoung&theme=dark&hide_border=true" />
-  <img width="150" src="https://raw.githubusercontent.com/AlfredYoung/Figurebed/main/img/202108300312623.png" />
 </p>
 
 <!-- GitHub奖杯🏆
@@ -66,9 +61,4 @@
 </div> --> -->
 
 
-# 🤝 Social
 
-<!-- CSDN数据 -->
-<div align="center">
-  <a href="https://blog.csdn.net/qq_45757722"><img src="https://stats.justsong.cn/api/csdn?id=qq_45757722"/></a>
-</div>
