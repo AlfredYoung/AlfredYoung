@@ -7,8 +7,6 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://alfredyang.cn/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://blog.csdn.net/qq_45757722/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/436110652/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/chao-ji-sai-ya-ren-sun-wu-kong/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标
   <img src="https://visitor-badge.glitch.me/badge?page_id=AlfredYoung" />-->
@@ -42,9 +40,9 @@
 - 📫 How to reach me 1150714183@qq.com
 # 🚀 Action 
 <!-- 连续提交代码天数记录 -->
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredYoung&theme=dark&hide_border=true" />
-</p>
+</p> -->
 
 <!-- GitHub奖杯🏆
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=AlfredYoung&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
@@ -58,7 +56,7 @@
 <!-- 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=AlfredYoung&theme=xcode" />
-</div> --> -->
+</div> --> 
 
 
 
